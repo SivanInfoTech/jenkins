@@ -26,5 +26,6 @@
       <version>3.3.2</version>
     </plugin>
   </plugins>
+  <finalName>sivaninfotech</finalName>
 </build>
 </project>
